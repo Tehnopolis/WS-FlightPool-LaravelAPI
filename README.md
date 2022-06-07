@@ -11,6 +11,7 @@ php artisan serve
 1. Переименовать server.php => index.php
 2. Переместить public/.htaccess => .htaccess
 3. (Если Unix) настроить доступ к папкам (https://stackoverflow.com/questions/30639174/how-to-set-up-file-permissions-for-laravel)
+4. Запустить через `php -S localhost:8000` или веб-сервер
 
 # Прогресс
 - [X] User
