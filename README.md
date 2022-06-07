@@ -1,4 +1,15 @@
-# Progress
+# Запуск
+### Через artisan:
+```bash
+php artisan serve
+```
+
+### Без artisan:
+1. Переименовать server.php => index.php
+2. Переместить public/.htaccess => .htaccess
+3. (Если Unix) настроить доступ к папкам (https://stackoverflow.com/questions/30639174/how-to-set-up-file-permissions-for-laravel)
+
+# Прогресс
 - [X] User
 	- [X] Model
 	- [X] Register
