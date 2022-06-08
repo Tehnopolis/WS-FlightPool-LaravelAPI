@@ -31,6 +31,6 @@ php artisan serve
 	- [X] Create
 	- [X] Get
 - [X] Seat
-	- [Ч] Model
+	- [X] Model
 	- [X] Change seat
 	- [X] Get
